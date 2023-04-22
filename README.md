@@ -1,2 +1,2 @@
 # Html_Project
-Static website only using Html
+Static blog website only using Html
